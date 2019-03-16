@@ -2103,7 +2103,7 @@ input, select, textarea {
 		}
 
 			#top .image img {
-				border-radius: 100%;
+				border-radius: 5%;
 			}
 
 		#top h1 {
